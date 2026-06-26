@@ -87,24 +87,32 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
-              <h4>Description</h4>
+              <h3>AI, ML & Data</h3>
+              <h4>Intelligent Systems</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Building autonomous AI agents, ML pipelines, and LLM-powered applications with retrieval-augmented generation and advanced NLP.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">SQL</div>
+                <div className="what-tags">Scikit-Learn</div>
+                <div className="what-tags">XGBoost</div>
+                <div className="what-tags">OpenAI API</div>
+                <div className="what-tags">Gemini API</div>
+                <div className="what-tags">Anthropic API</div>
+                <div className="what-tags">Prompt Engineering</div>
+                <div className="what-tags">Agentic AI</div>
+                <div className="what-tags">RAG</div>
+                <div className="what-tags">TF-IDF</div>
+                <div className="what-tags">NLTK</div>
+                <div className="what-tags">Pandas</div>
+                <div className="what-tags">NumPy</div>
+                <div className="what-tags">Feature Engineering</div>
+                <div className="what-tags">Matplotlib</div>
+                <div className="what-tags">Seaborn</div>
+                <div className="what-tags">Plotly</div>
+                <div className="what-tags">Power BI</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -128,22 +136,30 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
-              <h4>Description</h4>
+              <h3>AUTOMATION & TOOLS</h3>
+              <h4>Development & Deployment</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                AI workflow automation, REST API integrations, and full-stack deployment with modern development tools and databases.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">n8n</div>
+                <div className="what-tags">REST APIs</div>
+                <div className="what-tags">Google APIs</div>
+                <div className="what-tags">Webhooks</div>
+                <div className="what-tags">Streamlit</div>
+                <div className="what-tags">JavaScript</div>
+                <div className="what-tags">React.js</div>
+                <div className="what-tags">Git</div>
+                <div className="what-tags">GitHub</div>
+                <div className="what-tags">MySQL</div>
+                <div className="what-tags">MongoDB</div>
+                <div className="what-tags">PostgreSQL</div>
+                <div className="what-tags">Jupyter Notebook</div>
+                <div className="what-tags">Google Colab</div>
+                <div className="what-tags">VS Code</div>
+                <div className="what-tags">Heroku</div>
+                <div className="what-tags">Microsoft Excel</div>
               </div>
               <div className="what-arrow"></div>
             </div>
