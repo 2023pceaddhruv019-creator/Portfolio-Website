@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --color-brand-red: #ff1a1a;
+  --color-brand-red-dark: #b30000;
+  --color-card-bg: #09090b;
+  --color-card-border: #27272a;
+}
+
+/* Custom fade-in animations or high fidelity visual refinements can be placed here */
+.text-gradient-red {
+  background: linear-gradient(135deg, #ffffff 30%, #ff3b30 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+  overflow-x: hidden;
+}
+
